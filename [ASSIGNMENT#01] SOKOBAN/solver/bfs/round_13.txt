@@ -1,0 +1,3 @@
+Runtime of bfs: 0.1865 second.
+Total step: 31
+Result: d r r d r r u L L u u r D D u l l l d R l d d r r u U r r d L 

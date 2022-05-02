@@ -1,0 +1,3 @@
+Runtime of ucs: 0.0078 second.
+Total step: 9
+Result: U U d d r r r U U 
